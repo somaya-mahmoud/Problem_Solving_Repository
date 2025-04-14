@@ -1,6 +1,6 @@
 void main() {
-  int n = 7;
-  int m = 20;
+  int n = 5;
+  int m = 10;
 
   getAllPrimeNumbers(n, m);
 }

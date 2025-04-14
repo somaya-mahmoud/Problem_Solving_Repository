@@ -20,4 +20,4 @@ To get started with this project, you need to have Flutter installed on your sys
 1. *Clone this repository:*
 
    ```bash
-   git clone https://github.com/somaya-mahmoud/Problem_Solving.git
+   git clone https://github.com/somaya-mahmoud/Problem_Solving_Repository.git
